@@ -1,4 +1,4 @@
-Moro Se olis Antton tässä.
-Olen 16v
-Aika aloitelia devaamisessa.
-Tosiaan lua on mun juttu.
+Hi there 👋
+❗️ 16 Year old FiveM developer from finland
+❗️ Currently building ESX Server called Core Roleplay
+❗️ Languages: Lua, SQL
